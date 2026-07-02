@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>ATRÉVETE - Daniel Carmouze</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+
+<header>
+  <h1>ATRÉVETE.</h1>
+  <p class="subtitle">Por Daniel Carmouze “Mamut”</p>
+  <p class="quote">“Porque una mala jugada nunca define el partido.”</p>
+
+  <nav>
+    <a href="#historia">Historia</a>
+    <a href="#biografia">Biografía</a>
+    <a href="#valores">Valores</a>
+    <a href="#futuro">Futuro</a>
+  </nav>
+</header>
+
+<section id="historia">
+  <h2>Parte I — Nunca des un partido por perdido</h2>
+
+  <p>
+    Representé a la Zona Sur de Nuevo León en un Juego de Superestrellas.
+    Íbamos perdiendo 14-0 contra un equipo muy fuerte.
+  </p>
+
+  <p>
+    El partido se veía cuesta arriba, pero nadie dejó de luchar.
+    Con esfuerzo, disciplina y trabajo en equipo, el juego empezó a cambiar.
+  </p>
+
+  <p>
+    Poco a poco logramos remontar hasta ganar en el último cuarto.
+  </p>
+
+  <p class="final">
+    Ese día entendí que mientras haya tiempo, siempre hay oportunidad.
+  </p>
+</section>
+
+<section id="biografia">
+  <h2>Mi historia</h2>
+
+  <p>
+    Nací el 17 de septiembre de 2008. Empecé en el fútbol americano a los 10 años
+    como liniero ofensivo, especializándome en tackle izquierdo.
+  </p>
+
+  <p>
+    Competí a alto nivel en preparatoria y participé en el combine de la NFL Academy.
+  </p>
+
+  <p>
+    A los 16 años sufrí una lesión en la columna que terminó mi etapa como jugador.
+  </p>
+
+  <p>
+    Desde niño soñé con la aviación, imaginando aviones con mis manos desde el kínder.
+  </p>
+</section>
+
+<section id="valores">
+  <h2>Valores</h2>
+
+  <ul>
+    <li>Respeto</li>
+    <li>Disciplina</li>
+    <li>Compromiso</li>
+    <li>Fe en Dios</li>
+  </ul>
+
+  <p>
+    “Fíate de Jehová de todo tu corazón…”
+    — Proverbios 3:5
+  </p>
+</section>
+
+<section id="futuro">
+  <h2>Mi futuro</h2>
+
+  <p>
+    Me veo como piloto profesional, formando una familia
+    y construyendo una vida con esfuerzo y propósito.
+  </p>
+</section>
+
+<footer>
+  <p>ATRÉVETE — Por Daniel Carmouze “Mamut”</p>
+</footer>
+
+</body>
+</html>
